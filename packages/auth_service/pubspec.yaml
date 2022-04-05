@@ -1,0 +1,16 @@
+name: auth_service
+description: Flutter Package that provides complete code for email authentication using Firebase
+version: 0.0.1
+
+environment:
+  sdk: ">=2.15.1 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  equatable: ^2.0.3
+  firebase_auth: ^3.3.4
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_lints: ^1.0.4
