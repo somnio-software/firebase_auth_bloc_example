@@ -1,16 +1,11 @@
-# firebase_auth_bloc_example
+# Firebase Authentication with Email and Password along with Bloc!
 
-A new Flutter project.
+[![Somnio Software](images/logo.png)][somnio_software_link]
 
-## Getting Started
+Developed with :blue_heart: &nbsp;by [Somnio Software][somnio_software_link]
 
-This project is a starting point for a Flutter application.
+Authentication is one of the most used features for developing apps. This repository contains all the code that enables you to add Firebase Authentication in your Flutter app with some of the best practices followed and Bloc for state management!
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[//]: # "Links"
+[somnio_software_link]: https://somniosoftware.com/
